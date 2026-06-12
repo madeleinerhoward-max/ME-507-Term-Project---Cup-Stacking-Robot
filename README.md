@@ -12,7 +12,7 @@ custom STM32F411-based 4-layer PCB driving four TMC5160 stepper drivers.
 📖 **[Full Project Documentation](https://yourusername.github.io/your-repo/)**
 
 The documentation site includes:
-- Full source code documentation (Doxygen-generated)
+- Full source code documentation 
 - Mechanical design (CAD renders)
 - Custom PCB design and schematics
 - Software architecture (driver library, motion control, homing, state
