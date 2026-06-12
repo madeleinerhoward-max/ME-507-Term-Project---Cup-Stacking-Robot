@@ -9,7 +9,7 @@ A gantry-style robot that grabs and stacks cups using a vacuum/suction-cup
 end effector. Built on a modified Ender-series 3D printer frame with a
 custom STM32F411-based 4-layer PCB driving four TMC5160 stepper drivers.
 
-📖 **[Full Project Documentation](https://yourusername.github.io/your-repo/)**
+📖 **[Full Project Documentation](https://madeleinerhoward-max.github.io/ME-507-Term-Project---Cup-Stacking-Robot/)**
 
 The documentation site includes:
 - Full source code documentation 
